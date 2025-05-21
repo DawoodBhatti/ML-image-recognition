@@ -76,3 +76,4 @@
 
 **Resources:**
 - https://medium.com/cord-tech/the-best-free-datasets-for-human-pose-estimation-4bb925973c22
+- https://nanonets.com/blog/machine-learning-image-processing/#libraries-and-frameworks-for-machine-learning-image-processing
