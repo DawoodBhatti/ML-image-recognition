@@ -72,3 +72,7 @@
 - Modular code structure to allow easy expansion to 3D pose estimation later.
 
 - Plugin system for alternative skeleton formats or smoothing methods.
+
+
+**Resources:**
+- https://medium.com/cord-tech/the-best-free-datasets-for-human-pose-estimation-4bb925973c22
