@@ -1,6 +1,7 @@
 
-#Coming soon!
+**This project coming soon!**
 
+Plan below:
 
 
 **Actionable Plan: Custom 2D Pose Estimation Framework**
